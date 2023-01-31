@@ -2,6 +2,7 @@ body {
   height: 100vh;
   background-color: #d5e1ef;
   display: flex;
+  font-family: 'Outfit', sans-serif;
 }
 
 #main {
@@ -14,7 +15,6 @@ body {
 
 h1 {
   font-size: 22px;
-  font-family: outfit;
   font-weight: 700;
   font-style: bold;
   text-align: center;
@@ -23,7 +23,6 @@ h1 {
 }
 
 p {
-  font-family: outfit;
   font-weight: 400;
   line-height: 18.9px;
   font-size: 15px;
