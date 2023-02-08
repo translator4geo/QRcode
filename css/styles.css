@@ -2,7 +2,6 @@ body {
   height: 100vh;
   background-color: #d5e1ef;
   display: flex;
-  font-family: 'Outfit', sans-serif;
 }
 
 #main {
@@ -14,6 +13,9 @@ body {
 }
 
 h1 {
+  font-family: 'Outfit', sans-serif;
+  padding: 20px;
+  padding-bottom: 0;
   font-size: 22px;
   font-weight: 700;
   font-style: bold;
@@ -23,6 +25,9 @@ h1 {
 }
 
 p {
+  padding: 30px;
+  padding-top: 0;
+  font-family: 'Outfit', sans-serif;
   font-weight: 400;
   line-height: 18.9px;
   font-size: 15px;
@@ -34,3 +39,4 @@ img {
   max-width: 100%;
   border-radius: 10px;
 }
+
